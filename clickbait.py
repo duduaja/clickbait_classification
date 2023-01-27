@@ -1,16 +1,11 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
 
 #for text pre-processing
 import re, string
 import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
-
-#viz data
-import matplotlib.pyplot as plt
-from wordcloud import WordCloud
 
 #model
 import tensorflow as tf
