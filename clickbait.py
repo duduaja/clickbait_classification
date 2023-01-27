@@ -3,7 +3,6 @@ import numpy as np
 
 #for text pre-processing
 import re, string
-import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
