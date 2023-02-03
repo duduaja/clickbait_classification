@@ -1,4 +1,4 @@
-from test import *
+from predeploy import *
 
 # test_text = ['Viral Video Review Beli Udara Bekasi Cuma Goceng, yang Nonton 8,5 Juta Netizen!']
 # print(predict_spam(test_text)[0][0])
